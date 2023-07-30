@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio-ReactJS/static/css/main.8503d5ce.css",
+    "main.js": "/Portfolio-ReactJS/static/js/main.ea21f2f7.js",
+    "static/js/787.aeca62f9.chunk.js": "/Portfolio-ReactJS/static/js/787.aeca62f9.chunk.js",
+    "static/media/home.jpg": "/Portfolio-ReactJS/static/media/home.ed1c82349244e7a956b7.jpg",
+    "static/media/leaf.png": "/Portfolio-ReactJS/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Portfolio-ReactJS/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Portfolio-ReactJS/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Portfolio-ReactJS/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/sreejithcv.pdf": "/Portfolio-ReactJS/static/media/sreejithcv.01b1890b2805f4b43fbc.pdf",
+    "static/media/blog.png": "/Portfolio-ReactJS/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/nptel python.jpg": "/Portfolio-ReactJS/static/media/nptel python.b1337c70b0cd6d1f6d0e.jpg",
+    "static/media/nptel dbms.jpg": "/Portfolio-ReactJS/static/media/nptel dbms.82e6742fe680b828e70d.jpg",
+    "static/media/GIT.png": "/Portfolio-ReactJS/static/media/GIT.b1620a949cf5a07de488.png",
+    "static/media/about.png": "/Portfolio-ReactJS/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Django.png": "/Portfolio-ReactJS/static/media/Django.4b00f8be23d42d721616.png",
+    "static/media/JAVASCRIPT.png": "/Portfolio-ReactJS/static/media/JAVASCRIPT.63c2b3bacf6d3b96dee1.png",
+    "static/media/chatify.png": "/Portfolio-ReactJS/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Portfolio-ReactJS/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio-ReactJS/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio-ReactJS/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio-ReactJS/index.html",
+    "main.8503d5ce.css.map": "/Portfolio-ReactJS/static/css/main.8503d5ce.css.map",
+    "main.ea21f2f7.js.map": "/Portfolio-ReactJS/static/js/main.ea21f2f7.js.map",
+    "787.aeca62f9.chunk.js.map": "/Portfolio-ReactJS/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8503d5ce.css",
+    "static/js/main.ea21f2f7.js"
+  ]
+}
