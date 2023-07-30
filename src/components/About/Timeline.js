@@ -11,11 +11,11 @@ import { Container } from 'react-bootstrap';
 function Timeline() {
   return (
     <Container style={{marginTop:"90px"}}>
-      <h4 style={{textAlign:"center",fontSize:"44px",color:"white",marginTop:"110px"}}>CERTIFICATIONS</h4>
+      <h4 style={{textAlign:"center",fontSize:"44px",color:"violet",marginTop:"110px"}}>CERTIFICATIONS</h4>
       <Carousel >
       <Carousel.Item>
         <img
-          className="d-block w-80"
+          className="d-block w-100"
           src={java}
           alt="First slide"
         />

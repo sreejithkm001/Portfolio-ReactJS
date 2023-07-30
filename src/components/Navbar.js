@@ -62,13 +62,14 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              {/* <Nav.Link
+              <Nav.Link
                 as={Link}
                 to="/about"
                 onClick={() => updateExpanded(false)}
-              > */}
-              {/* <AiOutlineUser style={{ marginBottom: "2px" }} />  */}
-              <DropdownButton
+              >
+              <AiOutlineUser style={{ marginBottom: "2px" }} /> {""}About
+              </Nav.Link>
+              {/* <DropdownButton
                 id="dropdown-basic-button"
                 title="About"
                 style={{ margin: "9px" }}
@@ -76,8 +77,8 @@ function NavBar() {
                 <Dropdown.Item href="/about">About Me</Dropdown.Item>
                 <Dropdown.Item href="/education">Education</Dropdown.Item>
                 <Dropdown.Item href="/timeline">Certification</Dropdown.Item>
-              </DropdownButton>
-              {/* </Nav.Link> */}
+              </DropdownButton> */}
+              
             </Nav.Item>
 
             <Nav.Item>

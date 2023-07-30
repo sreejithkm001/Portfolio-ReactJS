@@ -729,8 +729,8 @@ button:focus {
   display: none !important;
 }
 .wrapper{
-  max-width: 1080px;
-  margin: 50px auto;
+  max-width: 100%;
+  margin: 20px auto;
   padding: 0 20px;
   position: relative;
 }
@@ -748,6 +748,7 @@ button:focus {
 }
 .wrapper .row-1{
   justify-content: flex-start;
+  
 }
 .wrapper .row-2{
   justify-content: flex-end;
@@ -807,13 +808,16 @@ button:focus {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  
 }
 .row section .details .title{
   font-size: 22px;
   font-weight: 600;
+  color: #090000;
 }
 .row section p{
   margin: 10px 0 17px 0;
+  color: #090000;
 }
 .row section .bottom button{
   margin-left: 180px;

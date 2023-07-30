@@ -3,6 +3,8 @@ import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
 import Timeline from "./Timeline";
 import { TbTimeline } from "react-icons/tb";
+import Education from "./Education";
+import '../../style.css'
 
 function AboutCard() {
   return (
@@ -15,7 +17,7 @@ function AboutCard() {
               completed MCA in the year 2023 from APJ Abdul Kalam Technological
               University.
             </p>
-           {/*  <ul>
+            {/* <ul>
               <li className="about-activity">
                 <ImPointRight /> Playing Games
               </li>
@@ -35,12 +37,13 @@ function AboutCard() {
           </blockquote>
         </Card.Body>
       </Card>
-    <br />
-    <br />
-    <br /><br /><br />
-    
-        
-    </>
+      <br /><br /><br /><br /><br /><br /><br /><br />
+
+      <Timeline/>
+      <h4 style={{textAlign:"center",fontSize:"44px",color:"violet",marginTop:"110px"}}>EDUCATION</h4>
+      <Education/>
+      
+      </>
   );
 }
 

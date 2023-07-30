@@ -17,7 +17,7 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Timeline from "./components/About/Timeline";
-import Education from './components/Education/Education'
+import Education from './components/About/Education'
 
 
 function App() {
