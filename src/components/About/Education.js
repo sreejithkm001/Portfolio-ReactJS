@@ -29,7 +29,7 @@ function Education() {
         <i class="icon fas fa-home"></i>
         <div class="details">
           <span class="title">Master of Computer Application</span>
-          <span>2021-2023</span>
+          <span class="title">2021-2023</span>
         </div>
         <p>Nehru college of engineering and research centre</p>
         <p>APJ Abdul Kalam Technological University</p>
@@ -44,7 +44,7 @@ function Education() {
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">Bsc Computer Science</span>
-          <span>2017-2020</span>
+          <span class="title">2017-2020</span>
         </div>
         <p>Mount Seena College of Arts and Science</p>
         <p>University of Calicut</p>
@@ -59,7 +59,7 @@ function Education() {
         <i class="icon fas fa-rocket"></i>
         <div class="details">
           <span class="title">Higher Secondary</span>
-          <span>2015-2017</span>
+          <span class="title">2015-2017</span>
         </div>
         <p>Seventh day Adventist Higher Secondary School</p>
         <p>Indian School Certificate (ISC)</p>
@@ -74,7 +74,7 @@ function Education() {
         <i class="icon fas fa-globe"></i>
         <div class="details">
           <span class="title">Matriculation</span>
-          <span>2005-2015</span>
+          <span class="title">2005-2015</span>
         </div>
         <p>Seventh day Adventist Higher Secondary School</p>
         <p>Indian Certificate of Secondary Education (ICSE)</p>
