@@ -52,7 +52,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio using React JS"
               description="My personal portfolio web-application build with React JS, React bootstrap, React icons,HTML,CSS." 
-              ghLink="https://github.com/sreejithkm001/Sentiment-Analysis-using-ML"
+              ghLink="https://github.com/sreejithkm001/Portfolio-ReactJS"
               
               demoLink="https://blogs.soumya-jit.tech/"
             />
